@@ -1,6 +1,6 @@
 # vue-via-cep
 
-> Pluging para consulta de CEP do ViaCEP
+> Plugin para consulta de CEP do ViaCEP
 
 ## Build Setup
 
